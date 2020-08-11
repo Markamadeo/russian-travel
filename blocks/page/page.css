@@ -1,5 +1,6 @@
 .page {
   max-width: 100%;
+  min-width: 320px;
   display: grid;
   grid-template-columns: 1fr;
   justify-items: center;
