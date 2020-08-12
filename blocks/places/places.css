@@ -24,24 +24,19 @@
   }
 }
 
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   .places {
-    width: 90.625%;
+    width: 93.75%;
     row-gap: 72px;
-    margin-top: 92px;
+    margin-top: 88px;
 
   }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
   .places {
-    width: 76.875%;
+    width: 90.625%;
     margin-top: 92px;
-  }
-}
-
-@media screen and (min-width: 1025px) and (max-width: 1280px) {
-  .places {
     row-gap: 80px;
   }
 }
