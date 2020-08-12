@@ -19,12 +19,12 @@
   .places {
     width: 93.75%;
     row-gap: 32px;
-    margin-top: 72px;
+    margin-top: 88px;
 
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 769px) and (max-width: 1024px) {
   .places {
     width: 90.625%;
     row-gap: 72px;
