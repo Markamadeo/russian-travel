@@ -2,22 +2,50 @@
 
 ### Обзор
 * Интро
-* Figma
-* Картинки
+* Технологии
+* META
 
 **Интро**
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+Проект о путешествии по России.
+[Ссылка на GH Pages](https://markamadeo.github.io/russian-travel/)
 
-**Figma**
+**Технологии**
+> Сайт создан на основе современных технологий, HTML & CSS
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+[![HTML Version][html-image]][html-url]
+[![CSS Version][css-image]][css-url]
 
-**Картинки**
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
-Удачи!
+При создании этой страницы, были использованы такие методалогии как:
+BEM - БЭМ (Блок Элемент Модификатор)
+
+Структура файлов организованна по правилам Nested БЭМ.
+
+Так же использованы возможности HTML и CSS:
+* Flex
+* Grid
+* Адаптивная вёрстка
+* Позиционирование
+* Семантическая вёрстка
+* Анимация и многое другое.
+
+![](./images/photo_readme.png)
+
+**META**
+
+Автор: Кулаков Артём – [@MyVK](https://vk.com/diamondhand) – kulakov22@yandex.ru
+
+[https://github.com/Markamadeo](https://github.com/Markamadeo/)
+
+
+
+
+<!-- Markdown link & img href -->
+[html-image]: https://img.shields.io/badge/HTML-5.0-green
+[html-url]: https://html.spec.whatwg.org/
+[css-image]: https://img.shields.io/badge/CSS-3-orange
+[css-url]: https://www.w3.org/Style/CSS/
+
+
