@@ -1,3 +1,9 @@
-.intro__list-text {
+@import url("./_type/intro__list-text_type_bold.css");
 
+.intro__list-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #FFFFFF;
 }
