@@ -1,6 +1,23 @@
 .cover__link-container {
+  display: grid;
+  align-items: center;
   grid-row: 1/2;
   grid-column: 1/2;
   z-index: 1;
+  text-decoration: none;
+}
+
+.cover__link-container::after {
+  content: "";
+  padding-bottom: 62.5%;
   background: #2A2C2F;
+  opacity: 0.3;
+  transition: opacity 0.4s;
+  grid-row: 1/2;
+  grid-column: 1/2;
+  z-index: 1;
+}
+
+.cover__link-container:hover.cover__link-container::after {
+  opacity: 0.8;
 }
